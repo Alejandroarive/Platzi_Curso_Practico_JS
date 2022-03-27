@@ -6,7 +6,7 @@ function calcular_media_aritmetica(lista){
     );
     const promediolista = sumalista/lista.length;
     return promediolista;
-    }
+}
 const lista1 = [
 100,
 200,
